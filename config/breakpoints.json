@@ -1,0 +1,7 @@
+{
+  "pauseOnException": "uncaught",
+  "breakpoints": [
+    { "class": "com.example.sample.ExampleApp", "method": "loopBody" },
+    { "class": "com.example.sample.ExampleApp", "line": 42 }
+  ]
+}
