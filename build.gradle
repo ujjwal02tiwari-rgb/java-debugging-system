@@ -39,4 +39,5 @@ test {
 tasks.shadowJar {
     archiveBaseName.set('java-debugging-system')
     archiveClassifier.set('all')
+            archiveVersion.set('')
 }
